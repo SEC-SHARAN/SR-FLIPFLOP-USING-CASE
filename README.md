@@ -61,3 +61,4 @@ endmodule
 ![Screenshot 2024-12-10 132504](https://github.com/user-attachments/assets/8a9421e3-6fb0-4f53-a42f-9c5147ff10aa)
 
 **RESULTS**
+The sr-flipflop are the output is verified.
